@@ -1,2 +1,2 @@
 # StudyCpp
-This repository is made for studying C++
+This repository is made for studying C++ in English
